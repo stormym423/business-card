@@ -1,0 +1,32 @@
+
+
+.pic{width:150px;
+display:flex;
+border: 3px dotted #fb8f67;
+}
+
+
+.card{
+    width:550px;
+    padding:20px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right:auto;
+    background-color: #156064;
+    border-bottom: 10px solid #00c49a;
+}
+
+.text{
+    text-align: center;
+    padding: 10px;
+    font-family: Lora, serif;
+    color: #f8e16c;
+}
+h4{
+    color: #00c49a;
+}
+
+/* .blueBorder{
+    border: 1px dotted #b392ac;
+} */
